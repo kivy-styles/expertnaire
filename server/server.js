@@ -3,6 +3,7 @@ const BodyParser = require('body-parser');
 const SourceMapSupport = require('source-map-support');
 SourceMapSupport.install();
 const path= require('path')
+const port= process.env.PORT || 3000
 
 
 const app = express();
@@ -14,4 +15,4 @@ app.get('*', (req, res)=>{
 }
 )
 
-app.listen(3000, ()=>console.log('App started at port 3000'));
+app.listen(port, ()=>console.log('App started at port 3000'));
