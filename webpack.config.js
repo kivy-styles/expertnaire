@@ -62,6 +62,7 @@ performance:{
         port:8000,
         static: path.resolve(__dirname, 'static'),
         historyApiFallback:true,
+        allowedHosts: "all",
     proxy:{
             '/api/*': {
                 target:'http://localhost:3000',
