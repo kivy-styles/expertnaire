@@ -4,7 +4,7 @@
   "description": "a website for assisting in picking a place to eat",
   "main": "./static/app.bundle.js",
   "scripts": {
-    "start": "webpack serve --hot"
+    "start": "webpack-dev-server --port $PORT --host 0.0.0.0 "
   },
   "engines": {
     "node": "16.14.2",
