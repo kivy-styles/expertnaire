@@ -5,8 +5,7 @@
   "main": "./static/app.bundle.js",
   "scripts": {
     "watch": "babel server --presets es2015 --out-dir dist --watch",
-    "start": "node server/server.js --source-map",
-    "build": "webpack serve --hot"
+    "start": "node server/server.js --source-map"
   },
   "engines": {
     "node": "16.14.2",
