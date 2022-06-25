@@ -1,11 +1,12 @@
 {
-  "name": "restaurant-picker",
+  "name": "affiliate-marketing",
   "version": "1.0.0",
   "description": "a website for assisting in picking a place to eat",
   "main": "./static/app.bundle.js",
   "scripts": {
     "watch": "babel server --presets es2015 --out-dir dist --watch",
-    "start": "node server/server.js --source-map"
+    "start": "node server/server.js --source-map",
+    "serve": "webpack serve --hot"
   },
   "engines": {
     "node": "16.14.2",
