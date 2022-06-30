@@ -3,7 +3,7 @@ import React from 'react';
 export default class Contact extends React.Component{
     render(){
         return(
-            <div className='m-contactcont' style={{marginLeft:20}}>
+            <div className='m-contactcont'>
                 <address style={{height:65}}>
                     <div className='animate__animated animate__backInLeft'>
                     <a href='mailto:gabirolls798@gmail.com'>
