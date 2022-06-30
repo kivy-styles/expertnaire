@@ -9,14 +9,14 @@
            <div className='leftcont'>
                <div>
                        <div className='animate__animated animate__backInUp animate__delay-1s arrglow m-arrglow'>
-                        <div className='col-sm-9 col-md-12 col-lg-12'>
+                        <div className='col-xs-4 col-sm-9 col-md-12 col-lg-12'>
               <p className='glow m-glow'>
                   SUREST WAY TO EARN 200K-500K MONTHLY
               </p>
                             </div>
                        </div>
                    <div className='belowboard m-belowboard'>
-                       <div className='col-sm-10 col-md-12 col-lg-12'>
+                       <div className='col-xs-4 col-sm-10 col-md-12 col-lg-12'>
                <Card>
                    <p className='animate__animated animate__backInUp animate__delay-2s firstpar m-firstpar'>
                    Hey there!! My name is AKINSOLA GABRIEL, an Expertnaire Affiliate. I'm here to inform you on how you can make up to
