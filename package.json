@@ -1,10 +1,10 @@
 {
   "name": "affiliate-marketing",
   "version": "1.0.0",
-  "description": "a website for assisting in picking a place to eat",
-  "main": "./static/app.bundle.js",
+  "description": "A marketing website",
+  "main": "./static/app.js",
   "scripts": {
-    "start": "webpack-dev-server --port $PORT --host 0.0.0.0 "
+    "start": "webpack-dev-server --port $PORT --host 0.0.0.0"
   },
   "engines": {
     "node": "16.14.2",

@@ -3,7 +3,7 @@ import React from 'react';
 export default class About extends React.Component{
     render(){
         return(
-            <div style={{marginTop:20, marginLeft:20, marginRight:20}}>
+            <div className='m-contactcont' style={{marginLeft:20, marginRight:20}}>
             <div className='animate__animated animate__backInRight' style={{fontFamily:'Sofia',fontSize:18, textAlign:'justify'}}>
                 <p>
                     Hey again!! So lets take a short trip down memory lane,
