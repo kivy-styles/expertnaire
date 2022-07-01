@@ -8,7 +8,7 @@
        <div className='m-contentcont'>
            <div className='leftcont'>
                <div>
-                       <div className='animate__animated animate__backInUp animate__delay-1s arrglow m-arrglow'>
+                       <div className='arrglow m-arrglow'>
                         <div className='col-xs-4 col-sm-9 col-md-12 col-lg-12'>
               <p className='glow m-glow'>
                   SUREST WAY TO EARN 200K-500K MONTHLY
@@ -18,7 +18,7 @@
                    <div className='belowboard m-belowboard'>
                        <div className='col-xs-4 col-sm-10 col-md-12 col-lg-12'>
                <Card>
-                   <p className='animate__animated animate__backInUp animate__delay-2s firstpar m-firstpar'>
+                   <p className='firstpar m-firstpar'>
                    Hey there!! My name is AKINSOLA GABRIEL, an Expertnaire Affiliate. I'm here to inform you on how you can make up to
                    200k-500k monthly with just your smart phone, from the comfort of your home -oh yeah! I know, that sounds
                    like something from a fairy tale but trust me this is as real as it gets. The best part is anyone can do it.
@@ -26,8 +26,8 @@
                    if you wish to know me a little on a personal level and how I came to know about Expertnaire, kindly visit <a style={{color:'black'}} href='/about'>here</a>.
                    So lets begin. First thing is first, we'll talk about what Expertnaire is really all about. Of course this is just an introduction, you can skip
                    it and go straight to 'How to Earn'.
-                   <p className='animate__animated animate__backInUp animate__delay-3s secpar m-secpar'><b>What is Expertnaire?</b></p>
-                   <p className='animate__animated animate__backInUp animate__delay-3s'>Expertnaire is simply a digital platform and market place that assists creators of digital products to sell
+                   <p className='secpar m-secpar'><b>What is Expertnaire?</b></p>
+                   <p>Expertnaire is simply a digital platform and market place that assists creators of digital products to sell
                    their products and connect them to more customers via their platform and network of high performing
                    affiliates. As you may have already guessed we fall under the umbrella of the 'high performing affiliates' that is being
                    referred to here. Expertnaire was created by Nigerian billionaire Toyin Omotoso, one of the most innovative and creative minds in Nigeria<br/>
@@ -36,8 +36,8 @@
                    (such as e-books, videos, courses, tutorials, etc) and sold. As you can see the opportunities offered are almost boundless.
                    To learn more about Expertnaire and how to get started kindly visit the <a href='https://tinyurl.com/3fcy8v75' style={{color:'black'}}>Expertnaire website.</a> So
                    lets get to the question I'm pretty sure has been on your mind, How do I Earn?</p>
-                   <p className='animate__animated animate__backInUp animate__delay-4s thirdpar m-thirdpar'><b>How do I Earn?</b></p>
-                   <p className='animate__animated animate__backInUp animate__delay-4s'>
+                   <p className='thirdpar m-thirdpar'><b>How do I Earn?</b></p>
+                   <p>
                        As an Expertnaire affiliate, you earn up to 50% commission on every digital product you sell. As you are already aware Expertnaire
                        offers a vast number of digital packages with varying prices. Once you register as an affiliate marketer, you immediately have access to all
                        of these digital products for sales purposes. All you have to do is recommend a particular digital product, convince someone to purchase it via your link and
@@ -47,7 +47,7 @@
                        well-known Uber and Taxify (who provide car services despite not owning a car) have been really successful in utilizing Affiliate
                        Marketing by linking people who provide services to their potential customers.
                    </p>
-                       <p className='animate__animated animate__backInUp animate__delay-5s'>
+                       <p>
                    <p className='fourpar m-fourpar'>
                        If you wish to learn more about what some of these digital packages offer or you require further clarifications on some things, you can reach me via
                        the contact information provided <a href='/contact' style={{color:'black'}}>here</a>. As it may interest you to know, some of these digital packages
@@ -159,7 +159,7 @@
            </div>
                    </div>
            </div>
-         <div className='animate__animated animate__backInUp imgcont'>
+         <div className='imgcont'>
              <span>
                  <img className='img-responsive image' src='./image/Gabriel.jpg' alt='Gabriel'/>
              </span>
