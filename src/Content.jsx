@@ -166,7 +166,7 @@
              <div className='motivate' style={{fontFamily:'Tangerine'}}>
                  <b>A man is great not because he hasn't failed<br/>
                  He is great because failure hasn't stopped him<br/></b>
-                  <span style={{float:'right'}}>~Confucius</span>
+                  <span>~Confucius</span>
              </div>
          </div>
        </div>
