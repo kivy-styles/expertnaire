@@ -9,14 +9,14 @@
            <div className='leftcont'>
                <div>
                        <div className='arrglow m-arrglow'>
-                        <div className='col-xs-4 col-sm-9 col-md-12 col-lg-12'>
+                        <div className='col-md-12 col-lg-12'>
               <p className='glow m-glow'>
                   SUREST WAY TO EARN 200K-500K MONTHLY
               </p>
                             </div>
                        </div>
                    <div className='belowboard m-belowboard'>
-                       <div className='col-xs-4 col-sm-10 col-md-12 col-lg-12'>
+                       <div className='col-md-12 col-lg-12'>
                <Card>
                    <p className='firstpar m-firstpar'>
                    Hey there!! My name is AKINSOLA GABRIEL, an Expertnaire Affiliate. I'm here to inform you on how you can make up to
@@ -166,7 +166,7 @@
              <div className='motivate' style={{fontFamily:'Tangerine'}}>
                  <b>A man is great not because he hasn't failed<br/>
                  He is great because failure hasn't stopped him<br/></b>
-                  <span style={{textAlign:'right'}}>~Confucius</span>
+                  <span style={{float:'right'}}>~Confucius</span>
              </div>
          </div>
        </div>

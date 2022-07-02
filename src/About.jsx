@@ -4,7 +4,7 @@ export default class About extends React.Component{
     render(){
         return(
             <div className='m-contactcont'>
-            <div className='animate__animated animate__backInRight' style={{fontFamily:'Sofia',fontSize:18, textAlign:'justify'}}>
+            <div className='animate__animated animate__backInRight' style={{fontFamily:'Noto Serif',fontSize:18, textAlign:'justify'}}>
                 <p>
                     Hey again!! So lets take a short trip down memory lane,
                     I'm going to tell you how my journey began and how I got to know about
